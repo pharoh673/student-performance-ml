@@ -1,6 +1,4 @@
-# Student-performance-ml
-Neural network predicting student exam scores using study and lifestyle data
-#Student Exam Score Prediction (TensorFlow)
+# Student Exam Score Prediction (TensorFlow)
 
 A mini machine learning project exploring how student study habits and lifestyle factors
 affect exam performance.  
@@ -8,14 +6,14 @@ Built and trained a **supervised neural network (TensorFlow)** to predict exam s
 
 ---
 
-## Project Overview
+##  Project Overview
 - **Goal:** Predict students’ final exam scores using study and lifestyle data.
 - **Dataset:** [Student Habits vs Academic Performance (Kaggle)](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance)
 - **Type:** Supervised regression using neural networks
 
 ---
 
-## Features
+##  Features
 | Feature | Description |
 |----------|--------------|
 | `age` | Student’s age |
@@ -28,7 +26,7 @@ Built and trained a **supervised neural network (TensorFlow)** to predict exam s
 
 ---
 
-## ⚙️ Model Details
+##  Model Details
 - **Algorithm:** Feed-forward Neural Network (Keras / TensorFlow)
 - **Architecture:** 2 hidden layers (64 → 32 neurons, ReLU)
 - **Regularization:** Dropout (0.2) + L2
@@ -38,7 +36,7 @@ Built and trained a **supervised neural network (TensorFlow)** to predict exam s
 
 ---
 
-## Results
+## 📊 Results
 | Metric | Score |
 |---------|--------|
 | MAE | **5.61** |
@@ -49,7 +47,7 @@ Built and trained a **supervised neural network (TensorFlow)** to predict exam s
 
 ---
 
-## 📈 Visualization
+##  Visualization
 ![pred-vs-actual](your_plot_image.png)
 *(Scatter plot showing predicted vs actual exam scores — points align closely with the ideal line.)*
 
@@ -62,7 +60,7 @@ Built and trained a **supervised neural network (TensorFlow)** to predict exam s
 
 ---
 
-## Tools Used
+##  Tools Used
 - Python, Jupyter Notebook  
 - TensorFlow / Keras  
 - Scikit-learn  
@@ -70,7 +68,7 @@ Built and trained a **supervised neural network (TensorFlow)** to predict exam s
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 git clone https://github.com/<your-username>/student-performance-ml.git
 cd student-performance-ml
