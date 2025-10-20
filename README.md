@@ -1,4 +1,4 @@
-# student-performance-ml
+# Student-performance-ml
 Neural network predicting student exam scores using study and lifestyle data
 # 🎓 Student Exam Score Prediction (TensorFlow)
 
