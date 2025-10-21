@@ -70,7 +70,7 @@ Built and trained a **supervised neural network (TensorFlow)** to predict exam s
 
 ## How to Run
 ```bash
-git clone https://github.com/<your-username>/student-performance-ml.git
+git clone https://github.com/<pharoh673>/student-performance-ml.git
 cd student-performance-ml
 pip install -r requirements.txt
 jupyter notebook
